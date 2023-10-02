@@ -1,0 +1,35 @@
+{
+    "projectName": "second",
+    "description": "second",
+    "type": "community",
+    "author": "kdhttps",
+    "version": "0.0.15",
+    "authorWebsite": "https://github.com/kdhttps/second-ads-publish-testing",
+    "githubUri": "https://github.com/kdhttps/second-ads-publish-testing",
+    "license": "MIT",
+    "lastUpdated": "1695897446954",
+    "tags": [
+        "openid-connect"
+    ],
+    "noDirectLaunch": [
+        "co.second",
+        "co.third"
+    ],
+    "configs": {
+        "kdhttps.straight.co.first": {
+            "co.first.secret": "first-secret"
+        },
+        "kdhttps.straight.co.second": {
+            "co.second.secret": "second-secret"
+        },
+        "kdhttps.straight.co.third": {
+            "co.third.secret": "third-secret"
+        },
+        "kdhttps.logical.co.third": {
+            "co.third.secret": "third-secret"
+        },
+        "kdhttps.logical.co.first": {
+            "co.first.secret": "first-secret"
+        }
+    }
+}
