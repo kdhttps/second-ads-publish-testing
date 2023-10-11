@@ -1,8 +1,0 @@
-Flow co.first
-     Basepath ""
-Log "@info " good
-isAuth = 0
-authCall = Call java.utils#parse 
-loginResult = RFAC "https://login.com"
-username = RRF "index.ftlh" 
-When isAuth is not sddsssds
