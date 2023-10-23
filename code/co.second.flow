@@ -1,0 +1,8 @@
+Flow co.second
+     Basepath ""
+as = "as"
+When as is not true
+     it_jsyha = { success: true, data: { userId: "as9233Qz" } }
+     Finish it_jsyha
+it_fxlyp = { success: false, error: "Your error message here" }
+Finish it_fxlyp

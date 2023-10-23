@@ -1,0 +1,22 @@
+{
+    "projectName": "first",
+    "description": "first",
+    "type": "community",
+    "author": "kdhttps",
+    "version": "0.0.1",
+    "authorWebsite": "https://github.com/kdhttps/second-ads-publish-testing",
+    "githubUri": "https://github.com/kdhttps/second-ads-publish-testing",
+    "license": "apache-2.0",
+    "lastUpdated": "1697192715308",
+    "tags": [
+        "openid-connect"
+    ],
+    "noDirectLaunch": [],
+    "configs": {
+        "co.basic": {},
+        "co.second": {
+            "secret.second": "secret"
+        }
+    },
+    "name": "first"
+}
