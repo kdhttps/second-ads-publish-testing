@@ -1,4 +1,0 @@
-Flow co.first
-     Basepath ""
-obj = Trigger co.basic 
-as = {}
