@@ -23,17 +23,18 @@
 					"id": "Agama-log-Node-1d1eedd1-273e-48cd-8cbf-3382dc9e01b2",
 					"parentId": "Agama-start-Flow-eabad2e6-6f47-4934-8d05-3a818ee83319",
 					"type": "Agama-log-Node",
-					"displayName": "good",
+					"displayName": "gooddd",
 					"hasComment": true,
 					"comment": "",
 					"whenCondition": "",
 					"inRepeatBlock": false,
-					"logMessage": "\"info\"",
+					"logMessage": "\"infoooooo\"",
 					"logLevel": "info",
 					"nodeIcon": "icon-park:log"
-				}
+				},
+				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 299,
@@ -63,7 +64,7 @@
 					"isTopLevelFlow": true,
 					"basepath": "",
 					"configParams": "{}",
-					"nodeIcon": "material-symbols:line-start-square",
+					"nodeIcon": "ic:outline-star",
 					"timeout": "",
 					"inputs": "",
 					"configs": "",
@@ -75,7 +76,7 @@
 				"x": 99,
 				"y": 134
 			},
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 99,
 				"y": 134
@@ -103,8 +104,8 @@
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
+		"x": 201,
+		"y": 23,
 		"zoom": 1
 	}
 }
